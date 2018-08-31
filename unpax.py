@@ -14,6 +14,7 @@
 #   Cracker Zip & Rar files...
 #
 #     *** Requirements ***
+#  + pip install rarfile
 #  - Zip
 #  - Unrar
 #
