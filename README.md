@@ -2,7 +2,9 @@
 ![UnpaX.jpg](https://github.com/KURO-CODE/UnpaX/blob/master/UnpaX.jpg)
 
 # Requirements
++ pip install rarfile
 * zip
+* rarfile
 * unrar
 
 # Usage
