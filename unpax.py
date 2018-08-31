@@ -226,7 +226,7 @@ def MENU():
 		print "\033[1;m[\033[1;31mX\033[1;m]...\033[1;32mClOsiNg"
 		time.sleep(1)
 		KURO()
-		subprocess.call(['pkill', '-f', 'python'])
+		sys.exit()
 	else:
 		KURO()
 		LOGO()
