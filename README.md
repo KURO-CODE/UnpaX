@@ -1,4 +1,4 @@
-# UnpaX cracker
+# UnpaX cracker ![](https://img.shields.io/badge/UnpaX-Python-blue.svg)
 ![UnpaX.jpg](https://github.com/KURO-CODE/UnpaX/blob/master/UnpaX.jpg)
 
 # Requirements
@@ -8,9 +8,11 @@
 * unrar
 
 # Usage
-* git clone https://github.com/KURO-CODE/UnpaX.git
-* cd UnpaX
-* python unpax.py
+```
+git clone https://github.com/KURO-CODE/UnpaX.git
+cd UnpaX
+python unpax.py
+```
 
 # INFO
 Crack Zip & Rar files. 
